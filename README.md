@@ -85,3 +85,21 @@ For any questions or feedback, please contact:
 
 - **Daniel Ortiz-Barrientos**
 - Email: [d.ortizbarrientos@uq.edu.au](mailto:d.ortizbarrientos@uq.edu.au)
+
+## Addition of Figure
+3D Scatter Plot of Variety Data with Pareto Front (Improved Visualization)
+
+This figure represents an 3D scatter plot showcasing the relationship between three traits of 5000 simulated crop varieties: yield (x-axis), drought resistance (y-axis), and pest resistance (z-axis). The blue points represent individual crop varieties, with their positions determined by their corresponding trait values.
+
+The Pareto front is shown using distinct red markers, making it clear which are the optimal varieties. The markers indicate varieties that offer the best trade-offs among the three traits
+
+Key Elements:
+
+Blue Points: Represent individual crop varieties, with random values for yield, drought resistance, and pest resistance.
+
+Red Markers: Represent the varieties that form the Pareto front, showing the optimal balance among the three traits. These markers stand out due to their larger size and distinct colour.
+
+Axes:
+X-axis (Yield): Measures crop yield.
+Y-axis (Drought Resistance): Measures the crop’s resistance to drought.
+Z-axis (Pest Resistance): Measures the crop’s resistance to pests.
